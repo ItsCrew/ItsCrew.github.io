@@ -566,8 +566,8 @@ ul a{
     background-color: #222F3D;
     border-top: 1px rgba(128, 128, 128, 0.381) solid;
     display: flex;
-    justify-content: center
-    align-items: center
+    justify-content: center;
+    align-items: center;   
 }
 
 .footer-logo{
